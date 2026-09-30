@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+# generated output
+books.csv
+sales.xlsx
+sales_updated.xlsx
+~$*.xlsx
